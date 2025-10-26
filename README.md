@@ -12,7 +12,7 @@ Every Journey has a beginning! so let's begin:
 - Level making 🏞️ 
 - hierarchy management 🧑‍🧒 <br>
 
-![1760282692096](https://github.com/user-attachments/assets/a44f349e-4b0b-444d-aee9-d0a634a598d0)
+![1760282692096](https://github.com/user-attachments/assets/300fa36b-5bd5-4a2b-b45a-fa0d72f6f9f3)
 
 ## Part 2
 
@@ -24,10 +24,11 @@ And now he moves and jumps around:
 - Jumping & 2X Jumping ⬆️
 - Character animation & camera 🎥 <br>
 
-![1760283199216](https://github.com/user-attachments/assets/f318e384-9822-4b62-8cb7-b7cbd96b9448) <br>
-![1760283199005](https://github.com/user-attachments/assets/6df804e7-3c86-4b7b-8c1f-34b49fd4a53e) <br>
-![1760283199064](https://github.com/user-attachments/assets/6aa67462-29e9-4ccd-bd54-a24b15ac3b97) <br>
-![1760283198785](https://github.com/user-attachments/assets/83448e13-8425-4060-a938-4f8390e43a81) <br>
+![1760283199216](https://github.com/user-attachments/assets/b294403a-7b1a-4f4a-8188-f4321d35f114) <br>
+![1760283199005](https://github.com/user-attachments/assets/513602e3-1a5e-4bc9-9dff-c87b026cab3b) <br>
+![1760283199064](https://github.com/user-attachments/assets/ea8ee656-1027-4ede-8729-bd46221938b8) <br>
+![1760283198785](https://github.com/user-attachments/assets/42dbf767-f855-4683-bf80-26909631ca38) <br>
+
 
 ## Part 3
 
@@ -40,9 +41,9 @@ Lighting and Collectables:
 - Extra 🆙: Health bar changes color based on current health 🟩🟨🟥
 - Font changing & fixing ___🖊️
 
-![1760283771861](https://github.com/user-attachments/assets/3acdb1fa-0116-460c-94f2-0f47570ae3de) <br>
-![1760283771749](https://github.com/user-attachments/assets/53c868dc-459f-4f60-8840-4e85e86ea202) <br>
-![1760283771608](https://github.com/user-attachments/assets/9d161f3a-b009-455d-8206-8358c3b5032e) <br>
+![1760283771861](https://github.com/user-attachments/assets/eb94131c-9b84-48fa-b031-779af4d77589) <br>
+![1760283771749](https://github.com/user-attachments/assets/9179339b-9044-468f-b7fa-b092e90faa38) <br>
+![1760283771608](https://github.com/user-attachments/assets/ba48d864-f64a-4014-9566-717f7a9f063b) <br>
 
 ## Part 4
 
@@ -53,10 +54,11 @@ Collectable Logic and Spikey Damage:
 ‎- Spikes! 🔺🔺🔺
 ‎- Moving Spikes! ↔️⚠️
 
-![1760284580988](https://github.com/user-attachments/assets/a6cc391d-c754-47f5-80b4-b8e6f3406454)  <br>
-![1760284580825](https://github.com/user-attachments/assets/cdd327f4-90d4-4dd4-a8ed-dd2e30dae384)  <br>
-![1760284580937](https://github.com/user-attachments/assets/76c1008f-b0e3-47d3-87fa-4f954ed73326)  <br>
-![1760284580868](https://github.com/user-attachments/assets/eb415e4a-d0dd-45b5-ba54-555c137dc18d)  <br>
+![1760284580988](https://github.com/user-attachments/assets/1022c852-cc53-4fc3-8e96-0c5a4ffba65d) <br>
+![1760284580825](https://github.com/user-attachments/assets/45724262-e564-438f-ab3b-66709984b410) <br>
+![1760284580937](https://github.com/user-attachments/assets/94316150-ee26-490d-bf7c-487075b98ecc) <br>
+![1760284580868](https://github.com/user-attachments/assets/8fc99224-6791-4d18-8cfd-7a16dfc097a6) <br>
+
 
 ## Part 5
 
@@ -67,7 +69,8 @@ GAME OVER & GAME OVER causes:
 ‎- Slime (Linear Enemy) 🟢<>
 ‎- Bats (Float Enemy) 🦇
 
-![1760396773475](https://github.com/user-attachments/assets/f9bf2f52-a95e-48b3-81d0-1342e8d6ce4e)  <br>
-![1760396773347](https://github.com/user-attachments/assets/d8a8bbfe-0c1e-41e2-bd38-c851debdb9b2)  <br>
-![1760396773410](https://github.com/user-attachments/assets/4bf2fcad-29f9-44d0-890c-f8f081b9dabd)  <br>
-![1760396773396](https://github.com/user-attachments/assets/e587520a-5dc8-41e4-9de3-c707b75bd08d)  <br>
+![1760396773475](https://github.com/user-attachments/assets/6ef84205-766f-4944-8e87-c74056ba7e6c) <br>
+![1760396773347](https://github.com/user-attachments/assets/8910a9b4-79dc-4047-949b-bb6aa0093299) <br>
+![1760396773410](https://github.com/user-attachments/assets/ac9ebc16-0d1d-491f-a603-5575c9c6ce8d) <br>
+![1760396773396](https://github.com/user-attachments/assets/31479282-2f37-4a42-937b-2a8e1928a9b6) <br>
+
