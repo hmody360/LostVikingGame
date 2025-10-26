@@ -51,8 +51,8 @@ Lighting and Collectables:
 Collectable Logic and Spikey Damage:
 - Collectables & edibles logic(coins,keys & FOOD🥘)
 - Chests & how to open them 🗃️
-‎- Spikes! 🔺🔺🔺
-‎- Moving Spikes! ↔️⚠️
+- Spikes! 🔺🔺🔺
+- Moving Spikes! ↔️⚠️
 
 ![1760284580988](https://github.com/user-attachments/assets/1022c852-cc53-4fc3-8e96-0c5a4ffba65d) <br>
 ![1760284580825](https://github.com/user-attachments/assets/45724262-e564-438f-ab3b-66709984b410) <br>
@@ -64,10 +64,10 @@ Collectable Logic and Spikey Damage:
 
 ———————————————————— <br>
 GAME OVER & GAME OVER causes:
-‎- Map limits and Player Death 🌍💀
-‎- Game Over Screen + Restart 🪦🔄
+- Map limits and Player Death 🌍💀
+- Game Over Screen + Restart 🪦🔄
 ‎- Slime (Linear Enemy) 🟢<>
-‎- Bats (Float Enemy) 🦇
+- Bats (Float Enemy) 🦇
 
 ![1760396773475](https://github.com/user-attachments/assets/6ef84205-766f-4944-8e87-c74056ba7e6c) <br>
 ![1760396773347](https://github.com/user-attachments/assets/8910a9b4-79dc-4047-949b-bb6aa0093299) <br>
